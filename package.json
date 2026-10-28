@@ -23,7 +23,7 @@
     "node": ">=12.0"
   },
   "dependencies": {
-    "graphql-middleware": "^6.0.4",
+    "graphql-middleware": "npm:@depup/graphql-middleware@^6.1.35-depup.3",
     "graphql-shield": "^7.5.0",
     "lodash.get": "^4.4.2",
     "ms": "^2.1.3"
